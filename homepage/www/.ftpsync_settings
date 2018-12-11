@@ -1,0 +1,1 @@
+{"connect":"SFTP","host":"54.180.26.24","port":"22","user":"centos","remoteRoot":"/home/centos/m2oHomepage/public_html","privateKeyFile":"C:/Users/Seungsu Park/Desktop/작업파일/M2O/coin_build.pem"}
